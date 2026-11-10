@@ -17,7 +17,7 @@
 
 - 🥇 **숭실대 AI 소프트웨어 공모전 금상** · 캡스톤 경진대회 장려상 (Lumo, 팀 '보여요')
 - 📄 **논문 공동 1저자**: *Pointing with Light: Projected Guidance for Object Search by People with Low Vision* (심사 중)
-- 📱 **현대오토에버 배리어프리 앱개발 콘테스트 7팀 선발** (디딤, 2027.1 발표 예정)
+- 📱 **디딤 앱스토어 출시** · 현대오토에버 배리어프리 앱개발 콘테스트 7팀 선발 (2027.1 발표 예정)
 
 ---
 
@@ -26,7 +26,7 @@
 | | 프로젝트 | 한 줄 소개 | 기술 |
 |---|---|---|---|
 | 💡 | **Lumo** | 음성으로 물건 이름을 말하면 그 위에 빛을 투사하고, 몸 기준 "3시 방향"으로 안내하는 저시력자용 탐색 시스템. 사용자 중심 좌표계·상태 기계 설계 담당 | YOLOE · YOLOv8-pose · Whisper · RealSense · OpenCV |
-| 📱 | **디딤** *(진행 중)* | Lumo를 스마트폰으로. 한 번 비춘 물건의 위치를 저장해 화면 밖에 있어도 방향·거리로 안내. SLAM 위치 저장·벽 탐지 지도 담당 | ARKit · SLAM · iOS |
+| 📱 | [**디딤**](https://apps.apple.com/kr/app/%EB%94%94%EB%94%A4-%EC%A0%80%EC%8B%9C%EB%A0%A5%EC%9E%90-%EB%AC%BC%EA%B1%B4-%EC%B0%BE%EA%B8%B0/id6829758026) *(앱스토어 출시)* | Lumo를 스마트폰으로. 한 번 비춘 물건의 위치를 저장해 화면 밖에 있어도 방향·거리로 안내. SLAM 위치 저장·벽 탐지 지도 담당 | ARKit · SLAM · iOS |
 | 🎬 | **개인형 4D 기기** *(진행 중)* | 라벨 없는 영상을 분석해 진동·바람·온냉 효과를 자동 생성. 지각 층 담당, 로짓 채점으로 분석 6분 → 62초, Omni로 럼블 F1 0.47 → 0.68 | Qwen3-VL · Qwen2.5-Omni · LightGBM · HMM |
 | 🎾 | [**스쿼시 자세 교정 · 경기 분석**](https://github.com/dlsy4501/squash_pose_coach) | Lumo에서 알게 된 YOLO Pose를 취미인 스쿼시에. 선수별 이동 거리·랠리 분석 구현 중 | YOLO11n-pose · Python |
 | 🎲 | [**메르칸티스**](https://github.com/dlsy4501/Mercantis_boardgame) | 직접 설계한 보드게임을 실시간 멀티플레이 웹으로. [▶ 플레이하기](https://mercantis.onrender.com/) | Node.js · Express · Socket.io |
