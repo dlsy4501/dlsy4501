@@ -1,5 +1,5 @@
 <h2 align="center">안녕하세요, 임세윤입니다 👋</h2>
-<p align="center"><b>보이지 않는 곳을 비전으로 안내하는 시스템을 만듭니다.</b><br/>
+<p align="center"><b>시선이 닿지 않는 곳에, 느낄 수 있는 길을 냅니다.</b><br/>
 숭실대학교 · AI·비전 엔지니어 지망</p>
 
 <p align="center">
