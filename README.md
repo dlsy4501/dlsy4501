@@ -44,6 +44,4 @@
 ### 📫 Contact
 
 <a href="https://dlsy4501.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-171B23?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<!-- 인스타그램 아이디를 받으면 아래 줄의 주석을 풀고 INSTAGRAM_ID를 바꿔 넣기
-<a href="https://www.instagram.com/INSTAGRAM_ID/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
--->
+<a href="https://www.instagram.com/dlsy4501/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
